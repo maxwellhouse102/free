@@ -5,11 +5,13 @@
 |  工具  | Android  | Win  |  
 |  ----  | ----   | ----  |  
 |   |[shadowsocksr-android](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk) | [shadowsocksr-windows](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/download/4.7.0/ShadowsocksR-4.7.0-win.7z) |  
-### 长期稳定获取SSR节点网站：[点击查看](www.logo007.tk/)  
+### 获取长期稳定SSR节点网站：[点击查看](https://www.logo007.tk)  
 ### 节点导入方法  
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN/SSR客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray/SSR节点  
 ### SSR节点订阅  
 - `https://raw.githubusercontent.com/freefq/free/master/ssr`  
+### 自定义节点订阅  
+为解决githubusercontent被屏蔽订阅无法更新问题，用开源模板搭了个订阅网站，有需要自取：[获取订阅](https://www.logo007.tk) 
 
 ### v2rayN/ssr免费节点暂时比较少。可以试试在线代理  
 |  实现  | jsproxy  |  
