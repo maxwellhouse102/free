@@ -2,9 +2,9 @@
 更新时间 2021-02-22 12:00:01  
 免费科学上网,免费节点,免费ssr,免费v2ray,免费vmess节点,免费trojan节点,蓝灯,谷歌商店  
 所有资源都爬取自网络免费资源，请勿用于非法用途  
-|  工具  | Android  | Win  |  
+|  平台  | Android  | Win  |  
 |  ----  | ----   | ----  |  
-|   |[shadowsocksr-android](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk) | [shadowsocksr-windows](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/download/4.7.0/ShadowsocksR-4.7.0-win.7z) |  
+| 点击下载 |[shadowsocksr-android](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk) | [shadowsocksr-windows](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/download/4.7.0/ShadowsocksR-4.7.0-win.7z) |  
 ### 获取长期高速稳定SSR节点网站：[点击查看](https://www.logo007.tk)  
 ### 节点导入方法  
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN/SSR客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray/SSR节点  
