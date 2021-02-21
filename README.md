@@ -4,21 +4,19 @@
 所有资源都爬取自网络免费资源，请勿用于非法用途  
 |  工具  | Android  | Win  |  
 |  ----  | ----   | ----  |  
-| [v2ray](#v2ray)  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.4.12/v2rayNG_1.4.12_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) |  
-| [shadowsocksR](#SSR)  |[shadowsocksr-android](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk) | [shadowsocksr-windows](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/download/4.7.0/ShadowsocksR-4.7.0-win.7z) |  
-### v2rayN翻墙软件使用教程：[点击查看](https://github.com/freefq/tutorials)  
+|   |[shadowsocksr-android](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk) | [shadowsocksr-windows](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/download/4.7.0/ShadowsocksR-4.7.0-win.7z) |  
+### 长期稳定获取SSR节点网站：[点击查看](www.logo007.tk/)  
 ### 节点导入方法  
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN/SSR客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray/SSR节点  
 ### SSR节点订阅  
 - `https://raw.githubusercontent.com/freefq/free/master/ssr`  
-### v2ray(ss/trojan)节点订阅  
-- `https://raw.githubusercontent.com/freefq/free/master/v2`  
-### 自定义节点订阅  
-为解决githubusercontent被屏蔽订阅无法更新问题，用开源模板搭了个订阅网站，有需要自取：[永久免费订阅](https://bulink.xyz)  
-### v2ray/ssr免费节点暂时比较少。可以试试在线代理  
+
+### v2rayN/ssr免费节点暂时比较少。可以试试在线代理  
 |  实现  | jsproxy  |  
 |  ----  | ----  |  
 | 在线代理入口 | [https://j.bulink.xyz/](https://j.bulink.xyz/) |  
+
+
 ## SSR  
 ssr://MTM5LjE2Mi43Ni4xNjU6ODA5OTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTVwZWw1cHlzNUxpYzVMcXM2WU85NVpPQjViZWQ1WXk2VEdsdWIyUmw1cFd3NW8ydTVMaXQ1Yi1ETVRZMSZncm91cD1aMmwwYUhWaUxtTnZiUzltY21WbFpuRQ  
 ssr://c3NyLTEyLnNzcnN1Yi5vbmU6MTQ3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpkQzV0WlM5VFUxSlRWVUkvP29iZnNwYXJhbT01THVZNkxTNVUxTlM1ck9vNVlhTU9taDBkSEE2THk5MExtTnVMMFZIU2tsNWNtdyZwcm90b3BhcmFtPWRDNXRaUzlUVTFKVFZVSSZyZW1hcmtzPTU3Nk81WnU5SURFNU13Jmdyb3VwPVoybDBhSFZpTG1OdmJTOW1jbVZsWm5F  
